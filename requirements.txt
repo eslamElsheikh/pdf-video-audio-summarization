@@ -1,0 +1,11 @@
+farm-haystack
+streamlit
+streamlit_chat
+sentence_transformers
+pytube
+faiss_cpu
+ctransformers
+git+https://github.com/openai/whisper.git 
+youtube-transcript-api
+SpeechRecognition
+google-generativeai
